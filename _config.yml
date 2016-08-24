@@ -6,9 +6,9 @@ color:
   saturation: 0.23992247134447098
   rhythmicContrast: 0.7842213006224483
   brandColors:
-    - '#0000E3'
-    - '#FFFF00'
-    - '#000000'
-    - '#7B826E'
-    - '#A0A052'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Nautilus
