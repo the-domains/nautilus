@@ -1,0 +1,14 @@
+layout_spectrum: 0.9206818172242492
+typography_spectrum: 0.8523184615187347
+color:
+  brandStrength: 0.40584276081062853
+  lightness: 0.49385134503245354
+  saturation: 0.23992247134447098
+  rhythmicContrast: 0.7842213006224483
+  brandColors:
+    - '#0000E3'
+    - '#FFFF00'
+    - '#000000'
+    - '#7B826E'
+    - '#A0A052'
+name: Nautilus
