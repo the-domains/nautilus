@@ -1,16 +1,16 @@
-typography_spectrum: 0.8523184615187347
+layout_spectrum: 0.29372744215652347
+typography_spectrum: 0.7777839284390211
 color:
-  brandStrength: 0.40584276081062853
-  lightness: 0.49385134503245354
-  saturation: 0.23992247134447098
-  rhythmicContrast: 0.7842213006224483
+  brandStrength: 0.29186856327578425
+  lightness: 0.35708099650219083
+  saturation: 0.06904527684673667
+  rhythmicContrast: 0.7228794870898128
   brandColors:
-    - '#0000E3'
-    - '#FFFF00'
-    - '#000000'
-    - '#7B826E'
-    - '#A0A052'
-layout_spectrum: 0.9206818172242492
+    - '#FFFFFF'
+    - '#141011'
+    - '#A18C4B'
+    - '#FFFF03'
+    - '#CAC9C9'
 name: Nautilus
 title: Marine Equipment
 description: Custom Engineering
