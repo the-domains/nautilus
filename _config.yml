@@ -1,4 +1,3 @@
-layout_spectrum: 0.29372744215652347
 typography_spectrum: 0.7777839284390211
 color:
   brandStrength: 0.29186856327578425
@@ -11,6 +10,7 @@ color:
     - '#A18C4B'
     - '#FFFF03'
     - '#CAC9C9'
-name: Nautilus
-title: Marine Equipment
+layout_spectrum: 0.29372744215652347
+name: Oil States
+title: Nautilus
 description: Custom Engineering
