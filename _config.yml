@@ -1,16 +1,16 @@
-typography_spectrum: 0.7777839284390211
+layout_spectrum: 0.12891794624738395
+typography_spectrum: 0.20148945087566972
 color:
-  brandStrength: 0.29186856327578425
-  lightness: 0.35708099650219083
-  saturation: 0.06904527684673667
-  rhythmicContrast: 0.7228794870898128
+  brandStrength: 0.6666929002385587
+  lightness: 0.42224375111982226
+  saturation: 0.1924525818321854
+  rhythmicContrast: 0.8787423509638757
   brandColors:
+    - '#0029C2'
+    - '#FFFF00'
     - '#FFFFFF'
-    - '#141011'
-    - '#A18C4B'
-    - '#FFFF03'
-    - '#CAC9C9'
-layout_spectrum: 0.29372744215652347
+    - '#000000'
+    - '#9FAEE8'
 name: Oil States
 title: Nautilus
 description: Marine Equipment
